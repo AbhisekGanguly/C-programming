@@ -11,7 +11,7 @@ So comments are really useful as it helps us _explain and document our code for 
 
 #### Sub-section: Uses of comment
 Now there's something known as too much comment.
-* Adding too many comment can lead to degradeing readability of the program instead of improving!
+* Adding too many comment can lead to degrading readability of the program instead of improving!
 * You have to use the comment intelligently.
 It is a good idea to get into the habit of commenting on the top of the code file explaing the problem the code is being written to solve. Always remember:
 * It's easier to comment when the piece of code is still fresh in your mind and you understand the logic.
