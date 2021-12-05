@@ -7,4 +7,10 @@ int main(){
     /*This is a multiline comment
     we can write in multiple lines using this comment syntax!*/
     return 0;
+
+    /******************************************************************************
+     * If you want a multi line comment to stand out, then this is how you design your comment.
+     * It mostly means that it's a very important comment
+     * so people should read it.
+     * ****************************************************************************/
 }
