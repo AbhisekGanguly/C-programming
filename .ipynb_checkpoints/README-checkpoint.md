@@ -1,0 +1,2 @@
+# Journaling my C programming journey.
+Before starting I'd like to mention that __I've provious programming knowledge__ and I'm a very _proficient_ __Python programmer__. How I approach and interprete problems will surely be __different__ from people who are __completely new to programming and/or problem solving__. To them I would advice to have a little knowledge about problem solving and computational thinking before beginning with this __C programming journal__.
